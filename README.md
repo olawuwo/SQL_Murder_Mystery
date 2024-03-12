@@ -7,3 +7,8 @@ I employed the use of SELECT, JOIN and WHERE to solve the question. Feels free t
 My approach and strategy primarily involved leveraging SQL commands such as SELECT, JOIN, and WHERE to extract the necessary information and piece together the puzzle of the crime.
 
 Should you have any questions or require further clarification regarding my approach or solution, please feel free to reach out. Thank you! 🙏 
+
+## About SQL Murder Mystery
+- Website link - http://mystery.knightlab.com/
+- Github Repository - https://github.com/NUKnightLab/sql-mysteries
+- Schema - https://github.com/NUKnightLab/sql-mysteries/blob/master/schema.png
