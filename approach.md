@@ -1,6 +1,6 @@
 #### 1. Review the crime scene report for the murder date.
 > [!TIP]
-> Check the ERD for the crime scene report table. Read the instructions for the date of the murder (Jan 15, 2018).
+> Check the [ERD](https://github.com/NUKnightLab/sql-mysteries/blob/master/schema.png) for the crime scene report table. Read the instructions for the date of the murder (Jan 15, 2018).
 
 <details>
 <summary>Click to see the query</summary>
